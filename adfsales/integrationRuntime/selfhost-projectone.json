@@ -1,0 +1,6 @@
+{
+	"name": "selfhost-projectone",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

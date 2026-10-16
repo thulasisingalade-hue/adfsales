@@ -1,0 +1,15 @@
+{
+	"name": "adf-projectone-thulasi",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3f2dff7-97c7-46dd-b5c9-0b88facf0d7f",
+		"tenantId": "93acbaf3-77d8-477d-91cb-bc425bd61e39"
+	}
+}
